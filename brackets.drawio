@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T03:45:45.812Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="4kEatV47zZj5TwY0FoCu" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T05:02:36.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Mocr6e0vB1HuZPa568sX" version="14.0.1" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
-    <mxGraphModel dx="1807" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1504" dy="1696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-231" value="BracketSkeletonDesktopScrollWrapper" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;sketch=0;strokeColor=#FF0000;fontSize=10;fontColor=#000000;align=left;width=190;height=40;" vertex="1" parent="1">
+          <mxGeometry x="53.6" y="2250" width="656.4" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-232" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeColor=#000000;fontSize=10;fontColor=#000000;align=left;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="2040" width="1240" height="1240" as="geometry" />
+        </mxCell>
         <mxCell id="yvn1otVcxnGCeWS-NwdR-217" value="BracketSkeletonWrapper" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;sketch=0;strokeColor=#FF0000;fontSize=10;fontColor=#000000;align=left;width=127;height=39;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1580" width="560" height="490" as="geometry" />
+          <mxGeometry x="188" y="1639" width="350" height="370" as="geometry" />
         </mxCell>
         <mxCell id="yvn1otVcxnGCeWS-NwdR-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="600" width="320" height="120" as="geometry" />
@@ -1058,14 +1064,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yvn1otVcxnGCeWS-NwdR-214" value="&lt;p style=&quot;margin: 0px ; margin-top: 6px ; text-align: center&quot;&gt;&lt;b style=&quot;line-height: 280%&quot;&gt;BracketSkeleton&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;div style=&quot;color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-family: &amp;#34;menlo&amp;#34; , &amp;#34;monaco&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 18px&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;pickUtils&lt;/span&gt;=&lt;span style=&quot;color: rgb(86 , 156 , 214)&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: rgb(79 , 193 , 255)&quot;&gt;pickUtils&lt;/span&gt;&lt;span style=&quot;color: rgb(86 , 156 , 214)&quot;&gt;}&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;cacheKey&lt;/span&gt;=&lt;span style=&quot;color: rgb(86 , 156 , 214)&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: rgb(79 , 193 , 255)&quot;&gt;pickUtils&lt;/span&gt;.&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;bracketMapping&lt;/span&gt;?.&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;cacheKey&lt;/span&gt;&amp;nbsp;||&amp;nbsp;&lt;span style=&quot;color: rgb(206 , 145 , 120)&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(86 , 156 , 214)&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;changeTournamentRound&lt;/span&gt;=&lt;span style=&quot;color: rgb(86 , 156 , 214)&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: rgb(79 , 193 , 255)&quot;&gt;changeTournamentRound&lt;/span&gt;&lt;span style=&quot;color: rgb(86 , 156 , 214)&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;uiEngine&lt;/span&gt;=&lt;span style=&quot;color: rgb(86 , 156 , 214)&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: rgb(206 , 145 , 120)&quot;&gt;&quot;html&quot;&lt;/span&gt;&lt;span style=&quot;color: rgb(86 , 156 , 214)&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;MatchupComponent&lt;/span&gt;=&lt;span style=&quot;color: rgb(86 , 156 , 214)&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;color: rgb(79 , 193 , 255)&quot;&gt;BracketCard&lt;/span&gt;&lt;span style=&quot;color: rgb(86 , 156 , 214)&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;onDisplayGameVideoClick&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;bindMouseoverPropogation&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;onClearPicks&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;onMatchUpAnalysisClick&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;onAutoFillClick&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;onItemClick&lt;/span&gt;&lt;span style=&quot;color: rgb(86 , 156 , 214)&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;onSavePicks&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;displayMode&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;isSaving&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;success&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;initialMatchupId&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;enableDebugMode&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(156 , 220 , 254)&quot;&gt;&amp;nbsp;extraActions&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="align=left;overflow=fill;html=1;dropTarget=0;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1640" width="440" height="380" as="geometry" />
-        </mxCell>
-        <mxCell id="yvn1otVcxnGCeWS-NwdR-215" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="yvn1otVcxnGCeWS-NwdR-214">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-30" y="13.25" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yvn1otVcxnGCeWS-NwdR-216" value="" style="endArrow=oval;html=1;fontSize=10;entryX=-0.006;entryY=0.568;entryDx=0;entryDy=0;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;endFill=1;startArrow=blockThin;startFill=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180.00000000000023" y="1823.75" as="sourcePoint" />
@@ -1074,6 +1072,37 @@
               <mxPoint x="-610" y="1829" />
               <mxPoint x="-610" y="658.75" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-226" value="BracketSkeleton" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeColor=#6c8ebf;fontSize=10;swimlaneLine=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="198" y="1689" width="330" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-228" value="&lt;p style=&quot;line-height: 100%&quot;&gt;&lt;/p&gt;&lt;div&gt;&amp;nbsp;pickUtils={pickUtils}&lt;/div&gt;&lt;div&gt;&amp;nbsp;cacheKey={pickUtils.bracketMapping?.cacheKey || &quot;&quot;}&lt;/div&gt;&lt;div&gt;&amp;nbsp;changeTournamentRound={changeTournamentRound}&lt;/div&gt;&lt;div&gt;&amp;nbsp;uiEngine={&quot;html&quot;}&lt;/div&gt;&lt;div&gt;&amp;nbsp;MatchupComponent={BracketCard}&lt;/div&gt;&lt;div&gt;&amp;nbsp;onDisplayGameVideoClick&lt;/div&gt;&lt;div&gt;&amp;nbsp;bindMouseoverPropogation&lt;/div&gt;&lt;div&gt;&amp;nbsp;onClearPicks&lt;/div&gt;&lt;div&gt;&amp;nbsp;onMatchUpAnalysisClick&lt;/div&gt;&lt;div&gt;&amp;nbsp;onAutoFillClick&lt;/div&gt;&lt;div&gt;&amp;nbsp;onItemClick&lt;/div&gt;&lt;div&gt;&amp;nbsp;onSavePicks&lt;/div&gt;&lt;div&gt;&amp;nbsp;displayMode&lt;/div&gt;&lt;div&gt;&amp;nbsp;isSaving&lt;/div&gt;&lt;div&gt;&amp;nbsp;success&lt;/div&gt;&lt;div&gt;&amp;nbsp;initialMatchupId&lt;/div&gt;&lt;div&gt;&amp;nbsp;enableDebugMode&lt;/div&gt;&lt;div&gt;&amp;nbsp;extraActions&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yvn1otVcxnGCeWS-NwdR-226">
+          <mxGeometry y="29" width="330" height="281" as="geometry" />
+        </mxCell>
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-229" value="BracketToolbar" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeColor=#6c8ebf;fontSize=10;swimlaneLine=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="253.5" y="2070" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-230" value="&lt;p style=&quot;line-height: 100%&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;onAutoFillClick&lt;/div&gt;&lt;div&gt;&amp;nbsp;onFacebookClick&lt;/div&gt;&lt;div&gt;&amp;nbsp;onTwitterClick&lt;/div&gt;&lt;div&gt;&amp;nbsp;onPrintClick&lt;/div&gt;&lt;div&gt;&amp;nbsp;pickUtils&lt;/div&gt;&lt;div&gt;&amp;nbsp;displayMode&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yvn1otVcxnGCeWS-NwdR-229">
+          <mxGeometry y="29" width="240" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-233" value="BracketSkeletonRoundNavItem" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeColor=#6c8ebf;fontSize=10;swimlaneLine=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="253.5" y="2310" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-234" value="&lt;p style=&quot;line-height: 100%&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;onAutoFillClick&lt;/div&gt;&lt;div&gt;&amp;nbsp;onFacebookClick&lt;/div&gt;&lt;div&gt;&amp;nbsp;onTwitterClick&lt;/div&gt;&lt;div&gt;&amp;nbsp;onPrintClick&lt;/div&gt;&lt;div&gt;&amp;nbsp;pickUtils&lt;/div&gt;&lt;div&gt;&amp;nbsp;displayMode&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yvn1otVcxnGCeWS-NwdR-233">
+          <mxGeometry y="29" width="240" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-235" value="bracketTree.rounds" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;sketch=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=10;align=center;horizontal=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="356" y="2435" width="29" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-236" value="round" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;strokeColor=#000000;fontSize=10;fontColor=#000000;align=left;exitX=0.883;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="yvn1otVcxnGCeWS-NwdR-235" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="452.4200000000001" y="2451.1099999999997" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-237" value="return" style="html=1;verticalAlign=bottom;endArrow=blockThin;dashed=1;endSize=8;exitX=0;exitY=0.95;labelBackgroundColor=none;strokeColor=#000000;fontSize=10;fontColor=#000000;align=left;entryX=0.231;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" edge="1" source="yvn1otVcxnGCeWS-NwdR-235" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295.9399999999998" y="2450.2219999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

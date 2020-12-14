@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T05:30:50.175Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="HhJanm5nL_h7UAiJ6DeC" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T05:33:14.242Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="-ZXg821hT2KpHxKKCAv0" version="14.0.1" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
     <mxGraphModel dx="1657" dy="1802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1106,7 +1106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yvn1otVcxnGCeWS-NwdR-241" value="BracketSkeletonContainer" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;sketch=0;strokeColor=#FF0000;fontSize=10;fontColor=#000000;align=left;width=186;height=30;" vertex="1" parent="1">
-          <mxGeometry x="220" y="2600" width="350" height="650" as="geometry" />
+          <mxGeometry x="220" y="2600" width="350" height="850" as="geometry" />
         </mxCell>
         <mxCell id="yvn1otVcxnGCeWS-NwdR-242" value="BracketSkeletonLogo" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeColor=#6c8ebf;fontSize=10;swimlaneLine=1;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="251.5" y="2647" width="290" height="100" as="geometry" />
@@ -1127,7 +1127,7 @@
           <mxGeometry y="29" width="290" height="41" as="geometry" />
         </mxCell>
         <mxCell id="yvn1otVcxnGCeWS-NwdR-251" value="bracketTree.matchups" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;sketch=0;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=10;align=center;horizontal=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="371" y="3140" width="29" height="165" as="geometry" />
+          <mxGeometry x="361" y="3342" width="29" height="165" as="geometry" />
         </mxCell>
         <mxCell id="yvn1otVcxnGCeWS-NwdR-252" value="" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;strokeColor=#000000;fontSize=10;fontColor=#000000;align=left;exitX=1.004;exitY=0.415;exitDx=0;exitDy=0;exitPerimeter=0;rounded=0;" edge="1" parent="1" target="yvn1otVcxnGCeWS-NwdR-251" source="yvn1otVcxnGCeWS-NwdR-250">
           <mxGeometry relative="1" as="geometry">
@@ -1138,7 +1138,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yvn1otVcxnGCeWS-NwdR-253" value="" style="html=1;verticalAlign=bottom;endArrow=blockThin;dashed=1;endSize=8;labelBackgroundColor=none;strokeColor=#000000;fontSize=10;fontColor=#000000;align=left;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;rounded=0;" edge="1" parent="1" target="yvn1otVcxnGCeWS-NwdR-250">
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-253" value="" style="html=1;verticalAlign=bottom;endArrow=blockThin;dashed=1;endSize=8;labelBackgroundColor=none;strokeColor=#000000;fontSize=10;fontColor=#000000;align=left;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;rounded=0;exitX=0.591;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="yvn1otVcxnGCeWS-NwdR-251" target="yvn1otVcxnGCeWS-NwdR-250">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="309.99999999999983" y="2910.2219999999998" as="targetPoint" />
             <mxPoint x="304" y="3223" as="sourcePoint" />
@@ -1149,15 +1149,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yvn1otVcxnGCeWS-NwdR-254" value="BracketSkeletonMatchupConnector" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeColor=#6c8ebf;fontSize=10;swimlaneLine=1;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="265" y="2940" width="252" height="110" as="geometry" />
+          <mxGeometry x="265" y="2930" width="252" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="yvn1otVcxnGCeWS-NwdR-255" value=" matchupId&#xa; pickUtils&#xa;cacheKey&#xa;viewingTournamentRound&#xa;className" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yvn1otVcxnGCeWS-NwdR-254">
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-255" value="matchupId&#xa;pickUtils&#xa;cacheKey&#xa;viewingTournamentRound&#xa;className" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yvn1otVcxnGCeWS-NwdR-254">
           <mxGeometry y="29" width="252" height="81" as="geometry" />
         </mxCell>
         <mxCell id="yvn1otVcxnGCeWS-NwdR-256" value="BracketSkeletonGroupLabel" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeColor=#6c8ebf;fontSize=10;swimlaneLine=1;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="265" y="3070" width="252" height="110" as="geometry" />
+          <mxGeometry x="265" y="3060" width="252" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="yvn1otVcxnGCeWS-NwdR-257" value=" matchupId&#xa; pickUtils&#xa;cacheKey&#xa;viewingTournamentRound&#xa;className" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yvn1otVcxnGCeWS-NwdR-256">
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-257" value="matchupId&#xa;pickUtils&#xa;cacheKey&#xa;viewingTournamentRound&#xa;className" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yvn1otVcxnGCeWS-NwdR-256">
+          <mxGeometry y="29" width="252" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-258" value="BracketMatchup" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;childLayout=stackLayout;horizontal=1;startSize=29;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeColor=#6c8ebf;fontSize=10;swimlaneLine=1;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="265" y="3190" width="252" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-259" value="matchupId&#xa;pickUtils&#xa;onItemClick&#xa;onItemMouseover&#xa;finalFourLogoId" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="yvn1otVcxnGCeWS-NwdR-258">
           <mxGeometry y="29" width="252" height="81" as="geometry" />
         </mxCell>
       </root>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-14T03:15:56.485Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="nzJKE9Nl_zgBYI26bE4d" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-14T03:20:25.697Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Kz4sqWE1vmHJBEpC8A-i" version="14.0.1" type="github">
   <diagram name="Page-1" id="efa7a0a1-bf9b-a30e-e6df-94a7791c09e9">
-    <mxGraphModel dx="2859" dy="2750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="2092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -923,6 +923,21 @@
             <mxPoint x="20" y="47" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-189" value="swacketState" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;sketch=0;strokeColor=#6c8ebf;fontSize=10;align=center;fillColor=#dae8fc;horizontal=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="900.63" y="1120" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-190" value="gutterRatio" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;sketch=0;strokeColor=#6c8ebf;fontSize=10;align=center;fillColor=#dae8fc;horizontal=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="900.63" y="1147" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-191" value="isStaggered" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;sketch=0;strokeColor=#6c8ebf;fontSize=10;align=center;fillColor=#dae8fc;horizontal=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="900.63" y="1172" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-192" value="isThreeSectioned" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;dashed=1;labelBackgroundColor=none;sketch=0;strokeColor=#6c8ebf;fontSize=10;align=center;fillColor=#dae8fc;horizontal=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="900.63" y="1200" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="yvn1otVcxnGCeWS-NwdR-193" value="setSwacketStateGroupsAndRoundInfo" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;sketch=0;strokeColor=#82b366;fontSize=10;fillColor=#d5e8d4;rotation=90;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="900.63" y="1172" width="27.5" height="241.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
